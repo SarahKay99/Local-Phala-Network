@@ -5,8 +5,8 @@ Proof that I set up a Phala Network according to this tutorial. https://wiki.pha
 
 **Terminals:**
 
-![https://github.com/SarahKay99/Local-Phala-Network/blob/main/Terminals.PNG?raw=true]
+![](https://github.com/SarahKay99/Local-Phala-Network/blob/main/Terminals.PNG?raw=true)
 
 **Tokens:**
 
-![https://github.com/SarahKay99/Local-Phala-Network/blob/main/Tokens.PNG?raw=true]
+![](https://github.com/SarahKay99/Local-Phala-Network/blob/main/Tokens.PNG?raw=true)
